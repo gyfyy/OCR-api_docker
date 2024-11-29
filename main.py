@@ -1,7 +1,11 @@
 import time
 import requests
 import json
+import warnings
+import urllib3
 
+# 忽略 SSL 警告
+warnings.simplefilter('ignore', urllib3.exceptions.InsecureRequestWarning)
 
 def GameLogin():
     url = "https://wsgo.minigame.qq.com/GameLogin/OnlineBatch"
