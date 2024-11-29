@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . /app
 
 # 安装任何需要的依赖（如果有的话）
-# RUN pip install --no-cache-dir -r requirements.txt
+# RUN pip install requests time json
 
 # 启动 Python 脚本
 CMD ["python", "main.py"]
