@@ -14,7 +14,7 @@ def GameLogin():
         "Host": "wsgo.minigame.qq.com",
         "User-Agent": "QQGameHall",
         "Accept": "*/*",
-        "Cookie": "pt4_token=z2OzO*H02NTebc-y-fB1M-Zm9OHFlI9vMNqinC-7iCk_; p_skey=BoD*oKmEKX8G04P4tHLufLY6pfXyq3ZD9kR3agG7fLs_; p_uin=o2941556477; ptcz=d7c671735268af3c392869aff97f798c43053cba7de53f1a6b9db083461a8284; skey=@as2H1wyjf; uin=o2941556477; RK=vHUxLMUGtT",
+        "Cookie": "pt4_token=JPkeLD7KnxMeac0rLNb-hwUJQdLWsUIN8X0YbZIuTGw_; p_skey=tLhsQ9I7JOKGi5ZpK9ZK*kI315lJd0J9iiFMt-foHHE_; p_uin=o2941556477; ptcz=472ffbe0898f2f592b7642b5d6502281c08857bded79d16777812ad3bac810f8; skey=@QIGCcVP9z; uin=o2941556477; RK=uGU5OMUHsT",
         "Content-Type": "text/plain",
         "Referer": "http://www.qq.com"
     }
