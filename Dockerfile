@@ -20,7 +20,7 @@ COPY . .
 RUN mkdir -p models
 
 # 使用环境变量设置端口
-ENV PORT=80
+ENV PORT=8080
 
 
 CMD ["python", "ocr_function.py"]
