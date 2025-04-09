@@ -1,6 +1,7 @@
 # python使用方法
+## 端口默认8080
 ```
-url = "http://ip地址/ocr"
+url = "http://ip地址:端口/ocr"
 
 # 设置请求头
 headers = {
