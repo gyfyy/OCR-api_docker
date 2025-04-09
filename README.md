@@ -1,6 +1,6 @@
 # python使用方法
 ```
-url = "https://flask-tcoe-142956-4-1345386701.sh.run.tcloudbase.com/ocr"
+url = "http://ip地址/ocr"
 
 # 设置请求头
 headers = {
